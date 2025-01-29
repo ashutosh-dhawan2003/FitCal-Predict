@@ -1,19 +1,19 @@
 # FitCal-Predict
-Project Overview
+# Project Overview
 
 This project aims to predict the number of calories burnt based on various physical activities and individual characteristics. The model is trained using machine learning techniques, specifically an XGBoost Regressor.
 
-Dataset
+# Dataset
 
 The project utilizes two datasets:
 
-Exercise Data: Contains information on various physical activities.
+1. Exercise Data: Contains information on various physical activities.
 
-Calories Data: Includes the corresponding calorie expenditure.
+2. Calories Data: Includes the corresponding calorie expenditure.
 
 The datasets are merged into a single DataFrame for model training.
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -27,11 +27,11 @@ Scikit-Learn (Machine learning utilities)
 
 XGBoost (Regressor for predictions)
 
-Model Training
+# Model Training
 
 The dataset is preprocessed and split into training and testing sets using train_test_split(). The XGBoost Regressor is trained on the dataset, and predictions are made on the test data.
 
-Performance Metrics
+# Performance Metrics
 
 To evaluate the model, the following metrics are used:
 
@@ -43,7 +43,7 @@ Mean Absolute Error (MAE)
 
 R² Score (Converted to accuracy percentage)
 
-How to Run
+# How to Run
 
 Install dependencies:
 
