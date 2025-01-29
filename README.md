@@ -60,6 +60,6 @@ The accuracy of the model is calculated using:
 accuracy = (1 - (mse / np.var(y_test))) * 100
 print(f"Model Accuracy: {accuracy:.2f}%")
 
-Contribution
+# Contribution
 
 Feel free to fork the repository and make improvements. Pull requests are welcome!
