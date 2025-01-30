@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe5e0f96-b607-4f08-a35d-c6a55bec17c0)# FitCal-Predict
+## FitCal-Predict
 
 ## Overview
 Calorie Predictor is a desktop application built using Python and PyQt6 that predicts the number of calories burned based on user inputs such as age, weight, height, exercise duration, heart rate, and body temperature. It leverages a pre-trained machine learning model for predictions.
