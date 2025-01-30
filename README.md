@@ -55,7 +55,7 @@ This will open Jupyter Notebook in your browser. Execute the cells sequentially 
 
 ## Screenshots
 
-![Screenshot (313)](https://github.com/user-attachments/assets/cf35b60b-f748-4a88-bf67-0fe0c6e76575)
+![Screenshot (314)](https://github.com/user-attachments/assets/ce98ff0f-cafe-4038-9da3-2f29205fe93f)
 
 ## Future Enhancements
 - Improve UI/UX with more interactive elements.
